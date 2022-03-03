@@ -2,4 +2,4 @@
 
 This is my first repository
 
-Yo whats up
+Yo, What's up
